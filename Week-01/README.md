@@ -50,6 +50,3 @@ Through this task, I gained practical experience with:
 - NAT networking
 - Basic network troubleshooting
 
-## Evidence
-
-Screenshots of the setup, network configuration, and connectivity testing are available in the `screenshots` folder.
